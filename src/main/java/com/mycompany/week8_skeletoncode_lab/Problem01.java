@@ -25,7 +25,7 @@ public class Problem01 {
         }
     }
     
-    return n + getSumOfPrimes(n - 1);   //returns n only if the number is not prime
+    return n + getSumOfPrimes(n - 1);   //returns n only if the number is prime
         
     }
     
